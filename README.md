@@ -25,7 +25,7 @@ A Vegia interage com o usuário, solicitando a inserção de ingredientes e, com
 
 **Trabalhos Relacionados**
 
-  -> A postagem do site “Kaggle” “food_com-vegetarian-analysis” feita por Philip Seif;
+  -> A postagem “food_com-vegetarian-analysis” do site “Kaggle” feita por Philip Seif;
   
   -> O trabalho de conclusão de curso intitulado como “TCC_Lorenzo” encontrado no site “GitHub” feita por Lorenzo Benedetti;
   
