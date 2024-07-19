@@ -12,7 +12,7 @@ O trabalho propõe a redução do consumo de carne como uma forma de solucionar 
 
 **Metodologia**
 
-Este trabalho utiliza um dataset semelhante ao utilizado por Philip Seif, mas com tratamentos específicos, removendo receitas não vegetarianas para uma análise mais focada. A IA desenvolvida, diferencia-se por apresentar uma linguagem mais humanizada e acolhedora.
+Este trabalho utiliza um dataset semelhante ao utilizado por Philip Seif (autor do banco de dados utilizado nesse trabalho), mas com tratamentos específicos, removendo receitas não vegetarianas para uma análise mais focada. A IA desenvolvida, diferencia-se por apresentar uma linguagem mais humanizada e acolhedora.
 
 A Vegia interage com o usuário, solicitando a inserção de ingredientes e, com base nisso, recomenda cinco receitas. Três abordagens de recomendação foram implementadas e serão comparadas ao longo do trabalho:
 
