@@ -1,16 +1,15 @@
+
+# **Título: Trabalho final para a Disciplina de IA**
+
 **Autor: Renata Moura Barreto**
 
-**Título: Trabalho final para a Disciplina de IA**
 
-
-
-
-**Introdução**
+## **Introdução**
 
 O trabalho propõe a redução do consumo de carne como uma forma de solucionar os objetivos doze (Ação contra a mudança global do clima) e treze (Consumo e produção responsáveis) do Objetivo de Desenvolvimento Sustentável criado pela ONU (Organização das Nações Unidas), destacando a implementação de uma Inteligência Artificial, apelidada de Vegia, capaz de sugerir receitas vegetarianas ou veganas com base nos alimentos disponíveis do usuário. O foco principal é o desenvolvimento e os resultados dessa IA como uma contribuição para o consumo responsável e a redução do impacto ambiental, especialmente no contexto do aquecimento global.
 
 
-**Metodologia**
+## **Metodologia**
 
 Este trabalho utiliza um dataset semelhante ao utilizado por Philip Seif (autor do banco de dados utilizado nesse trabalho), mas com tratamentos específicos, removendo receitas não vegetarianas para uma análise mais focada. A IA desenvolvida, diferencia-se por apresentar uma linguagem mais humanizada e acolhedora.
 
@@ -23,7 +22,7 @@ A Vegia interage com o usuário, solicitando a inserção de ingredientes e, com
   -> Word2Vec com Rede Neural Sequencial: Treina um modelo Word2Vec e utiliza uma rede neural sequencial para calcular a similaridade de cosseno entre os ingredientes do usuário e as receitas.
 
 
-**Trabalhos Relacionados**
+## **Trabalhos Relacionados**
 
   -> A postagem “food_com-vegetarian-analysis” do site “Kaggle” feita por Philip Seif;
   
