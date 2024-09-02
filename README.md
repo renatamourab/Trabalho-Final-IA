@@ -1,5 +1,5 @@
 
-# **Título: Trabalho final para a Disciplina de IA**
+# **Título: IA Vegia**
 
 **Autor: Renata Moura Barreto**
 
